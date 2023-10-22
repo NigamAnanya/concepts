@@ -1,6 +1,6 @@
 if(1=="1"){
-  console.log("I am True")
+  console.log("It's True")
 }
 else{
-  console.log("I am False")
+  console.log("It's False")
 }
